@@ -1,0 +1,6 @@
+#Steps 
+npm install
+npm start
+
+#its necessary to be installed nodemon globally in you nootebook
+#youtube video helpfull: //https://www.youtube.com/watch?v=yBwSP7nBfRU
